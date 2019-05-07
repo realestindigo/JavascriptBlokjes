@@ -1,0 +1,24 @@
+.div1 {
+	background-color: gray;
+}
+.div2 {
+	background-color: gray;
+}
+.div3 {
+	background-color: gray;
+}
+.div4 {
+	background-color: gray;
+}
+
+.blokje {
+	height: 100px;
+	width: 100px;
+	margin:5px;
+}
+
+.blokjes {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
